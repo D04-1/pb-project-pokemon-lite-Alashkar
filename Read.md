@@ -2,14 +2,12 @@
 
 ---
 
-![Minion](https://octodex.github.com/images/minion.png)
-")
+## <img src="https://octodex.github.com/images/minion.png" width="300" height="400">
 
 ---
 
----
+#### Jedes Pokemon hat einen Namen, Gesundheit, Magie und eine Reihe von Fähigkeiten.
 
-####Jedes Pokemon hat einen Namen, Gesundheit, Magie und eine Reihe von Fähigkeiten.
 Angriffe verbrauchen die Magie des Pokemons, um anderen Pokemon Schaden zuzufügen.
 Zum Beispiel,
 
@@ -19,7 +17,7 @@ let lightning = new AttackSkill("lightning", 40, 30);
 
 ---
 
-![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg "The Stormtroopocat")
+<img src="https://octodex.github.com/images/stormtroopocat.jpg" width="300" height="300">
 
 ---
 
